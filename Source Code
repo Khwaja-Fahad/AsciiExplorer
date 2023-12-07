@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+int main() {
+    int asciiValue = 0;
+
+    while (asciiValue <= 255) {
+        printf("\nAscii value %d Character %c", asciiValue, asciiValue);
+        asciiValue++;
+    }
+
+    return 0;
+}
