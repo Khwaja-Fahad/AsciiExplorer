@@ -1,1 +1,3 @@
 # AsciiExplorer
+
+ AsciiExplorer is a simple C program that iterates through ASCII values from 0 to 255, displaying the corresponding characters and their ASCII values. This repository serves as an educational resource for understanding ASCII encoding and can be used as a reference for C programming enthusiasts. The code provides a clear demonstration of a loop structure and basic printf statements, making it an excellent starting point for those learning C or exploring ASCII character representations. Feel free to contribute, enhance, or customize the code for your learning purposes. Happy coding!
